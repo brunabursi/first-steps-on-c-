@@ -1,0 +1,7 @@
+C:\Users\bruna.bursi\Desktop\exemplo\exemplo\bin\Debug\exemplo.exe.config
+C:\Users\bruna.bursi\Desktop\exemplo\exemplo\bin\Debug\exemplo.exe
+C:\Users\bruna.bursi\Desktop\exemplo\exemplo\bin\Debug\exemplo.pdb
+C:\Users\bruna.bursi\Desktop\exemplo\exemplo\obj\Debug\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\bruna.bursi\Desktop\exemplo\exemplo\obj\Debug\exemplo.exe
+C:\Users\bruna.bursi\Desktop\exemplo\exemplo\obj\Debug\exemplo.pdb
+C:\Users\bruna.bursi\Desktop\exemplo\exemplo\obj\Debug\exemplo.csprojAssemblyReference.cache
